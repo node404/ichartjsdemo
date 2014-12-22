@@ -1,3 +1,62 @@
 
-基于ichartjs写的一个demo  [http://www.ichartjs.com/en/](http://www.ichartjs.com/en/)  [http://www.ichartjs.com/](http://www.ichartjs.com/)
+基于ichartjs写的一个demo  
+[http://www.ichartjs.com/en/](http://www.ichartjs.com/en/)  
+[http://www.ichartjs.com/](http://www.ichartjs.com/)
 
+#ichartjs简介
+
+ichartjs 是一款基于HTML5的图形库。使用纯javascript语言, 利用HTML5的canvas标签绘制各式图形。 ichartjs致力于为您的应用提供简单、直观、可交互的体验级图表组件。是WEB/APP图表展示方面的解决方案 。如果你正在开发HTML5的应用，ichartjs正好适合您。 ichartjs目前支持饼图、环形图、折线图、面积图、柱形图、条形图。ichartjs是基于Apache License 2.0协议的开源项目。
+
+##快速构建
+ichartjs是利用HTML5 canvas完成图形绘制工作的，所以它的主要工作从服务器移到用户的浏览器中。 在减少了服务器的资源的同时，在浏览器中也有较高的执行效率。 你只需要在你的页面引入ichartjs的js文件就完成了搭建环境。
+##轻量级
+整个ichartjs压缩文件只有90k。如果你只需要单一的图形功能，你也可以只加载你所需要的js文件。 那样代码量会更少。ichartjs不依赖任何其他库。只和浏览器相关。这样给你带来的是一个完全独立的轻量级js组件。
+##跨平台
+ichartjs利用HTML5 canvas完成图形绘制工作，这样它有能力在现代的主流浏览器中运用自如。 无论你是windows派、Mac粉、还是pad族，ichartjs都能在不改动任何代码的前提下提供统一的视图。
+
+
+ 
+Hello World
+用我们的方式展示了我们熟悉的Hello World。
+ 
+2D饼状图
+该示例展示了2012年2月份市场浏览器占有的情况。
+ 
+2D柱形图
+该示例构造了一个Highcharts风格的图表。
+ 
+2D环形图
+该示例展示了一个合格的工程师需要掌握的技能情况。
+ 
+3D饼状图
+该示例以饼状图2D模式展示了2012年7月份中国浏览器市场占有率Top6。
+ 
+3D蔟状柱形图
+该示例以柱形图3D模式展示了2012年2月份市场浏览器占有的情况。
+ 
+2D折线图
+该示例展示了网站近5天的PV流量情况。
+ 
+2D面积图
+该示例展示了2012一年中每个月份平均温度的情况。
+ 
+2D条形图
+该示例展示了中国社交媒体网站TOP10。
+ 
+3D堆积柱形图(new)
+该示例展示了全国连锁零售企业总部(总店)数TOP5。
+ 
+组合图(new)
+该示例展示了某公司2011年度销售5强情况。
+ 
+组合图(new)
+该示例展示了Pinterest网站访问量的情况。
+ 
+2D堆积条形图(new)
+该示例展示了近8年美国游戏零售年度分析。
+  
+2D堆积柱形图(new)
+该示例展示了2004年至2007年全国限额以上连锁零售业情况。
+  
+2D面积图(new)
+该示例展示了2013年春节期间产品A销售情况。
